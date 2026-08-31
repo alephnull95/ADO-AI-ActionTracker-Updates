@@ -1,5 +1,13 @@
 {
-  "version": "2026.08.28.2",
-  "releaseUrl": "https://microsoft.sharepoint.com/:f:/r/teams/M365TrustTeam-Onboarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FM365TrustTeam%2DOnboarding%2FShared%20Documents%2FGeneral%2FOCP%20Project%20Folder%2FOCP%20Hybrid%20AI%20Tool&p=true&share=cgqeSvFGm2iCRKKKgPRtOGrEEgUCwpqhsJnmh22uS%5FJRT922Ig",
-  "summary": "Adds in-app update notifications and the latest revision-backed lifecycle analytics."
+  "version": "2026.08.31.1",
+  "createdAtUtc": "2026-08-31T16:17:49.7052466+00:00",
+  "package": "M365OnboardingActions-2026.08.31.1-win-x64.zip",
+  "sha256": "581AEE94336FE4B87B79D28D9CCCAFE5853940415B04A24D4010E3E954F27CF9",
+  "snapshotActionCount": 400,
+  "historicalEngagementCount": 2781,
+  "snapshotNewestChangedDate": "2026-08-31T08:45:55.5400000-07:00",
+  "dataSourceMode": "Snapshot",
+  "azureDevOpsWritesEnabled": false,
+  "releaseUrl": "https://microsoft.sharepoint.com/:f:/r/teams/M365TrustTeam-Onboarding/Shared%20Documents/Forms/AllItems.aspx?id=%2Fteams%2FM365TrustTeam-Onboarding%2FShared%20Documents%2FGeneral%2FOCP%20Project%20Folder%2FOCP%20Hybrid%20AI%20Tool&p=true&share=cgqeSvFGm2iCRKKKgPRtOGrEEgUCwpqhsJnmh22uS%5FJRT922Ig",
+  "summary": "Open the approved release location to download and extract this update."
 }
